@@ -2,7 +2,7 @@
 A QGIS plugin to list species and habitats for SAC/SPA sites by clicking on a QGIS layer.
 
 
-How to make the plugin zip to install into qgis.
+# How to make the plugin zip to install into qgis.
 
 Step 1: Zip the folder
 Do not zip the files individually. Zip the parent folder itself.
